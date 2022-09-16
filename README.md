@@ -24,5 +24,5 @@ Email : bloaizac@uqvirtual.edu.co
 
 ![alt text](./screenshot.png/ "snapshot")
 
-[Heroku deployed app]()
+[Heroku deployed app](https://the-jist-app.herokuapp.com/)
 
