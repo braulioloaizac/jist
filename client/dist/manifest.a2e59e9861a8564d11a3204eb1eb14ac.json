@@ -1,0 +1,15 @@
+{
+  "icons": [
+    {
+      "src": "./icon_96x96.97a96e0fc4eb2a8bec3b8d49d90f1d14.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Just another text editor",
+  "short_name": "JIST",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./",
+  "description": "This app is a text editor on the browser"
+}
